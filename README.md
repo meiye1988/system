@@ -1,6 +1,6 @@
 # system
 
-> 基于vue2+Element UI的后台管理系统.[地址是](http://120.78.84.11/system/dist/)
+> 基于vue2+Element UI的后台管理系统.[点击看demo](http://120.78.84.11/system/dist/?_blank)
 
 ## 功能 ##
 
