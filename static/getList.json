@@ -1,0 +1,80 @@
+{
+  "data": [{
+      "name": "学生1",
+      "age": "16",
+      "sex": "男",
+      "class": "一班",
+      "score": "90"
+    },
+    {
+      "name": "学生2",
+      "age": "17",
+      "sex": "男",
+      "class": "一班",
+      "score": "90"
+    },
+    {
+      "name": "学生3",
+      "age": "18",
+      "sex": "男",
+      "class": "一班",
+      "score": "90"
+    },
+    {
+      "name": "学生2",
+      "age": "11",
+      "sex": "男",
+      "class": "一班",
+      "score": "90"
+    },
+    {
+      "name": "学生2",
+      "age": "12",
+      "sex": "男",
+      "class": "一班",
+      "score": "90"
+    },
+    {
+      "name": "学生1",
+      "age": "16",
+      "sex": "男",
+      "class": "一班",
+      "score": "90"
+    },
+    {
+      "name": "学生2",
+      "age": "17",
+      "sex": "女",
+      "class": "一班",
+      "score": "90"
+    },
+    {
+      "name": "学生3",
+      "age": "18",
+      "sex": "女",
+      "class": "一班",
+      "score": "90"
+    },
+    {
+      "name": "学生2",
+      "age": "11",
+      "sex": "女",
+      "class": "一班",
+      "score": "90"
+    },
+    {
+      "name": "学生2",
+      "age": "12",
+      "sex": "女",
+      "class": "一班",
+      "score": "90"
+    }],
+  "page": {
+    "total": 15,
+    "per_page": 15,
+    "current_page": 1,
+    "last_page": 1,
+    "from": 1,
+    "to": 15
+  }
+}

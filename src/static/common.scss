@@ -1,0 +1,25 @@
+$fontwhite:white;
+
+img{
+    vertical-align: middle;
+}
+.fontwhite{
+    color:$fontwhite;
+}
+$text-align-list:left center right;
+@each $align in $text-align-list{
+    .t-#{$align}{
+        text-align:$align
+    }
+}
+.padding-no{
+    padding:0;
+}
+.plugins-tips{
+    background-color: rgba(223,240,216,1);
+    padding:20px;
+    margin-bottom:20px;
+}
+.ql-container{
+    min-height: 400px;
+}
